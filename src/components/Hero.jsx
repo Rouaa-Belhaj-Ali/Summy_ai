@@ -16,6 +16,9 @@ const Hero = () => {
           GitHub
         </button>
       </nav>
+
+      <h1 className='head_text'>Summarize Articles with <br className='head_text'/> <span className='orange_gradient'>Open Ai</span></h1>
+      <h2 className='desc'></h2>
       </header>
 
 
